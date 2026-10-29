@@ -1,6 +1,6 @@
 # Studio Agent 스타터 코드
 
-대구·울산·경북 대학 연합 AI Workflow 해커톤 2기에서 Upstage Studio를 미리 경험해 보기 위한 스타터 코드입니다.
+대구·울산·경북 대학 연합 AI Workflow 해커톤 2기에서 Upstage Studio를 미리 경험해 보기 위한 스타터 코드입니다. **미니 미션 1을 위한 자료**입니다.
 
 - Playbook: https://daeul-hackathon-playbook.vercel.app
 - Upstage Studio 사용 설명서: https://console.upstage.ai/ko/docs/studio
