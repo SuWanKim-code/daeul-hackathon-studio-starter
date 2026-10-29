@@ -1,0 +1,7 @@
+# Python 3.11+
+
+# Upstage Studio API (OpenAI Compatible SDK)
+openai>=1.99.0
+
+# Environment Variables
+python-dotenv>=1.1.0
