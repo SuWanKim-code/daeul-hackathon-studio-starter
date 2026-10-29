@@ -1,0 +1,63 @@
+{
+    "name": [
+        "홍길동 (Hong Gil Dong)"
+    ],
+    "email": [
+        "hong.gildong@email.com"
+    ],
+    "phone": [
+        "010-1234-5678"
+    ],
+    "location": [
+        "서울특별시"
+    ],
+    "position": [
+        "AI / Backend Developer, AI Engineer, Backend Developer"
+    ],
+    "summary": [
+        "Python, FastAPI, Docker를 활용한 AI 서비스 및 백엔드 개발 경험이 있으며, LLM 기반 AI Agent와 RAG 시스템을 구현한 경험이 있습니다. REST API 개발, FastAPI 서버 구축, PostgreSQL 운영, Docker 환경 구성 역량을 보유하고 있습니다."
+    ],
+    "skills": [
+        "Python, Java, SQL, FastAPI, Flask, PostgreSQL, MySQL, LangChain, Upstage Studio, Solar Open, OpenAI, Docker, GitHub Actions",
+        "AI Agent 개발, Backend 개발, API 설계, Docker 운영, PostgreSQL, LLM 활용"
+    ],
+    "company": [
+        "ABC Tech"
+    ],
+    "career_position": [
+        "Backend Developer"
+    ],
+    "career_period": [
+        "2024.03 ~ 현재"
+    ],
+    "career_description": [
+        "REST API 개발, FastAPI 서버 구축, PostgreSQL 운영, Docker 환경 구성"
+    ],
+    "project_name": [
+        "AI FAQ Agent"
+    ],
+    "project_period": [
+        "2025.03"
+    ],
+    "project_description": [
+        "사내 문서를 이용한 FAQ Agent 개발"
+    ],
+    "project_skills": [
+        "Python, FastAPI, Solar Open, PostgreSQL, Docker"
+    ],
+    "school": [
+        "한국대학교"
+    ],
+    "major": [
+        "컴퓨터공학"
+    ],
+    "education_period": [
+        "2020.03 ~ 2024.02"
+    ],
+    "certifications": [
+        "정보처리기사, SQLD"
+    ],
+    "core_competencies": [
+        "AI Agent 개발, Backend 개발, API 설계, Docker 운영, PostgreSQL, LLM 활용"
+    ]
+}

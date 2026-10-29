@@ -1,0 +1,47 @@
+{
+    "company_name": "ABC AI Solutions",
+    "position": "AI Backend Developer",
+    "responsibilities": [
+        "AI Agent 서비스 개발",
+        "REST API 설계 및 개발",
+        "FastAPI 기반 Backend 개발",
+        "PostgreSQL 데이터베이스 설계 및 운영",
+        "Docker 기반 서비스 운영",
+        "RAG 시스템 개발",
+        "LLM API 연동",
+        "AI 서비스 성능 개선"
+    ],
+    "required_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "REST API",
+        "LLM",
+        "RAG"
+    ],
+    "preferred_skills": [
+        "AWS",
+        "Kubernetes",
+        "Redis",
+        "Elasticsearch",
+        "Monitoring (Prometheus, Grafana)"
+    ],
+    "qualifications": [
+        "컴퓨터공학 또는 관련 학과 졸업",
+        "Backend 개발 경험",
+        "협업 프로젝트 경험",
+        "Git 사용 경험"
+    ],
+    "preferred_qualifications": [
+        "LangChain 사용 경험",
+        "Upstage Studio 활용 경험",
+        "GitHub Actions 기반 CI/CD 경험",
+        "OpenAI 또는 Solar Open 활용 경험",
+        "AI 프로젝트 수행 경험"
+    ],
+    "experience_required": "Backend 개발 경험",
+    "education_required": "컴퓨터공학 또는 관련 학과 졸업",
+    "employment_type": "",
+    "location": ""
+}

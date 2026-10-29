@@ -1,0 +1,32 @@
+{
+    "match_level": [
+        "High Match"
+    ],
+    "overall_score": [
+        85
+    ],
+    "summary": [
+        "이력서는 JD의 핵심 기술인 Python, FastAPI, PostgreSQL, Docker, REST API, LLM, RAG와 직접적으로 일치하며, AI Agent 및 백엔드 개발 경험도 JD와 잘 부합합니다. 다만 AWS, Kubernetes, Redis, Elasticsearch, Monitoring 관련 기술과 학력 정보는 문서에서 확인되지 않습니다."
+    ],
+    "matched_skills": [
+        "Python, FastAPI, PostgreSQL, Docker, REST API, LLM, RAG, LangChain, Upstage Studio, GitHub Actions"
+    ],
+    "missing_skills": [
+        "AWS, Kubernetes, Redis, Elasticsearch, Monitoring (Prometheus, Grafana)"
+    ],
+    "matched_experience": [
+        "AI Agent 개발, Backend 개발, API 설계, Docker 운영, PostgreSQL 운영, LLM 활용, RAG 시스템 구현, AI 서비스 및 백엔드 개발 경험, FastAPI 서버 구축, Git 사용 경험"
+    ],
+    "missing_requirements": [
+        "컴퓨터공학 또는 관련 학과 졸업, 협업 프로젝트 경험"
+    ],
+    "strengths": [
+        "JD 핵심 기술 스택과 높은 일치도, AI Agent 및 RAG 구현 경험, FastAPI 기반 백엔드 개발 역량, PostgreSQL 및 Docker 운영 경험, LangChain·Upstage Studio·GitHub Actions 등 우대 기술 일부 보유"
+    ],
+    "weaknesses": [
+        "AWS, Kubernetes, Redis, Elasticsearch, Monitoring 기술이 문서에서 확인되지 않으며, 학력 정보와 협업 프로젝트 경험이 명시되어 있지 않습니다."
+    ],
+    "recommendations": [
+        "AWS, Kubernetes, Redis, Elasticsearch, Prometheus, Grafana 학습을 보완하고, 학력 및 협업 프로젝트 경험을 이력서에 명확히 기재하는 것이 좋습니다."
+    ]
+}
